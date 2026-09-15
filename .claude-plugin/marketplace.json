@@ -1,0 +1,13 @@
+{
+  "name": "munjang-local",
+  "owner": {
+    "name": "Local maintainer"
+  },
+  "plugins": [
+    {
+      "name": "munjang",
+      "source": "./",
+      "description": "Korean writing and evidence-preserving self-editing with a bounded, auditable revision loop."
+    }
+  ]
+}

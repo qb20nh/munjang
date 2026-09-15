@@ -1,0 +1,6 @@
+{
+  "name": "munjang",
+  "version": "1.0.0",
+  "description": "Korean writing and evidence-preserving self-editing with a bounded, auditable revision loop.",
+  "license": "MIT"
+}

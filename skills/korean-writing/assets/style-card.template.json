@@ -1,0 +1,18 @@
+{
+  "register": "원문 또는 예문에서 관찰",
+  "sentence_rhythm": "할당량이 아니라 관찰된 경향",
+  "lexical_level": "독자와 매체에 맞춤",
+  "distance_to_reader": "관찰된 서술 거리",
+  "humor": "필요할 때만",
+  "emotional_intensity": "원문 기준",
+  "preserve": [
+    "의도적인 반복",
+    "일관된 용어"
+  ],
+  "avoid": [
+    "예문의 고유 문장 복제",
+    "예문 사건의 전용"
+  ],
+  "evidence_excerpts": [],
+  "confidence": "insufficient_without_examples"
+}

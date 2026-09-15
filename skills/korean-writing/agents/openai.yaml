@@ -1,0 +1,6 @@
+interface:
+  display_name: "Munjang: 한국어 글쓰기와 교열"
+  short_description: "뜻과 목소리를 보존하는 글쓰기, 교열, 재구성"
+  default_prompt: "Use $korean-writing to write or edit Korean prose and adopt only verified improvements."
+policy:
+  allow_implicit_invocation: true

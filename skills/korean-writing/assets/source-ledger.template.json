@@ -1,0 +1,13 @@
+{
+  "claims": [
+    {
+      "id": "C001",
+      "claim": "검증할 실제 주장",
+      "kind": "fact_or_inference_or_example",
+      "source_locator": "문서명·페이지·행 또는 실제 URL",
+      "support": "supports_or_partial_or_conflicts_or_unchecked",
+      "checked_with": "actual_tool_or_provided_text_or_not_checked",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mode": "draft",
+  "genre": "explanatory",
+  "goal": "주어진 주제를 처음 접하는 일반 독자에게 설명한다.",
+  "audience": "배경지식이 없는 성인 독자",
+  "tone": "담백한 해요체",
+  "required_points": [
+    "원리와 적용 범위",
+    "중요한 한계"
+  ],
+  "max_rounds": 3
+}

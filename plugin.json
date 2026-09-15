@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "munjang",
+  "version": "1.0.0",
+  "description": "Korean writing and evidence-preserving self-editing with a bounded, auditable revision loop.",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "korean",
+    "copyediting",
+    "revision",
+    "skills"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Munjang Workbench",
+        "shortDescription": "한국어 글쓰기와 검증형 자기 교열",
+        "longDescription": "신규 작성, 보존 교열, 재구성. 의미와 목소리 보존, 단계별 검증, 수정 채택과 되돌리기.",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "defaultPrompt": [
+          "원문의 뜻과 말투를 보존하면서 필요한 부분만 교열해줘.",
+          "자료를 바탕으로 글을 쓰고, 검증을 통과한 수정만 반영해줘."
+        ]
+      }
+    }
+  }
+}

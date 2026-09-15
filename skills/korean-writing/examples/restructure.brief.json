@@ -1,0 +1,10 @@
+{
+  "mode": "restructure",
+  "genre": "argument",
+  "goal": "독자가 근거와 한계를 구분할 수 있도록 논증을 재구성한다.",
+  "tone": "단호하되 과장하지 않는 평서문",
+  "required_points": [
+    "핵심 주장과 실제로 제시된 근거를 모두 보존한다."
+  ],
+  "max_rounds": 3
+}

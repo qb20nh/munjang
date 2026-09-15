@@ -1,0 +1,10 @@
+{
+  "mode": "copyedit",
+  "genre": "explanatory",
+  "tone": "원문 유지",
+  "max_rounds": 3,
+  "protected_strings": [],
+  "semantic_invariants": [
+    "참가자가 12명이라는 사실과 분석을 수행했다는 완료된 행위를 보존한다."
+  ]
+}

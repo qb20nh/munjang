@@ -1,0 +1,20 @@
+{
+  "name": "munjang-local",
+  "interface": {
+    "displayName": "Munjang Local"
+  },
+  "plugins": [
+    {
+      "name": "munjang",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{"id": "K001", "category": "modality", "mode": "copyedit", "original": "이 기능을 사용할 수 있다.", "candidate": "이 기능을 사용한다.", "expected_judgment": "reject", "rationale": "가능성이 실제 행위로 바뀜", "measured": false}
+{"id": "K002", "category": "obligation", "mode": "copyedit", "original": "비용을 줄여야 한다.", "candidate": "비용을 줄인다.", "expected_judgment": "reject", "rationale": "의무가 사실로 바뀜", "measured": false}
+{"id": "K003", "category": "inception", "mode": "copyedit", "original": "온도가 내려가기 시작했다.", "candidate": "온도가 내려갔다.", "expected_judgment": "reject", "rationale": "시작과 완료 구별", "measured": false}
+{"id": "K004", "category": "scope", "mode": "copyedit", "original": "일부 참가자에게 반응이 나타났다.", "candidate": "참가자에게 반응이 나타난다.", "expected_judgment": "reject", "rationale": "범위와 시제 변경", "measured": false}
+{"id": "K005", "category": "roles", "mode": "copyedit", "original": "A가 B를 지원했다.", "candidate": "B가 A를 지원했다.", "expected_judgment": "reject", "rationale": "주체와 대상 뒤바뀜", "measured": false}
+{"id": "K006", "category": "value-binding", "mode": "copyedit", "original": "A는 3개, B는 5개다.", "candidate": "A는 5개, B는 3개다.", "expected_judgment": "reject", "rationale": "항목별 수치 뒤바뀜", "measured": false}
+{"id": "K007", "category": "correlation", "mode": "copyedit", "original": "두 변수 사이에 관련성이 있었다.", "candidate": "첫 변수가 둘째 변수를 일으켰다.", "expected_judgment": "reject", "rationale": "상관을 인과로 바꿈", "measured": false}
+{"id": "K008", "category": "negation", "mode": "copyedit", "original": "이 기능은 오류를 막지 못한다.", "candidate": "이 기능은 오류를 막는다.", "expected_judgment": "reject", "rationale": "부정 제거", "measured": false}
+{"id": "K009", "category": "exception", "mode": "copyedit", "original": "비가 오지 않으면 출발한다.", "candidate": "출발한다.", "expected_judgment": "reject", "rationale": "조건 삭제", "measured": false}
+{"id": "K010", "category": "permission", "mode": "copyedit", "original": "이곳에서는 사진을 찍어도 된다.", "candidate": "이곳에서는 사진을 찍어야 한다.", "expected_judgment": "reject", "rationale": "허용을 의무로 바꿈", "measured": false}
+{"id": "K011", "category": "certainty", "mode": "copyedit", "original": "원인은 배터리일 가능성이 있다.", "candidate": "원인은 배터리다.", "expected_judgment": "reject", "rationale": "확신 강화", "measured": false}
+{"id": "K012", "category": "attribution", "mode": "copyedit", "original": "연구자는 효과가 있다고 말했다.", "candidate": "효과가 있다.", "expected_judgment": "reject", "rationale": "발언을 확정 사실로 바꿈", "measured": false}
+{"id": "K013", "category": "quote", "mode": "copyedit", "original": "그는 \"가지 않겠다\"고 말했다.", "candidate": "그는 \"안 갈게\"라고 말했다.", "expected_judgment": "reject", "rationale": "직접 인용 변경", "measured": false}
+{"id": "K014", "category": "citation", "mode": "copyedit", "original": "해당 결과는 자료[1]에 있다.", "candidate": "해당 결과는 자료[2]에 있다.", "expected_judgment": "reject", "rationale": "인용 지시 변경", "measured": false}
+{"id": "K015", "category": "technical-term", "mode": "copyedit", "original": "토큰을 세고 토큰 수를 출력한다.", "candidate": "단어를 세고 기호 수를 출력한다.", "expected_judgment": "reject", "rationale": "기술 개념 변질", "measured": false}
+{"id": "K016", "category": "good-noop", "mode": "copyedit", "original": "준비됐다. 이제 시작하자.", "candidate": "준비됐다. 이제 시작하자.", "expected_judgment": "keep", "rationale": "불필요한 변경 없음", "measured": false}
+{"id": "K017", "category": "nominalization", "mode": "copyedit", "original": "연구팀은 분석을 진행했다.", "candidate": "연구팀은 분석했다.", "expected_judgment": "accept", "rationale": "예문 맥락에서 동일한 분석 행위를 간결하게 표현", "measured": false}
+{"id": "K018", "category": "passive", "mode": "copyedit", "original": "파일은 삭제되었다.", "candidate": "파일은 삭제되었다.", "expected_judgment": "keep", "rationale": "대상이 주제이며 행위자 정보 없음", "measured": false}
+{"id": "K019", "category": "invented-agent", "mode": "copyedit", "original": "파일은 삭제되었다.", "candidate": "관리자가 파일을 삭제했다.", "expected_judgment": "reject", "rationale": "행위자 창작", "measured": false}
+{"id": "K020", "category": "invented-scene", "mode": "copyedit", "original": "회의는 길었다.", "candidate": "식은 커피를 앞에 두고 비 내리는 창밖을 보며 긴 회의를 했다.", "expected_judgment": "reject", "rationale": "원문에 없는 현장 사실", "measured": false}
+{"id": "K021", "category": "emotion", "mode": "copyedit", "original": "친구에게 서운했다.", "candidate": "친구 때문에 외로웠다.", "expected_judgment": "reject", "rationale": "정서 관계 변경", "measured": false}
+{"id": "K022", "category": "invented-source", "mode": "copyedit", "original": "효과는 아직 확인되지 않았다.", "candidate": "최근 연구에 따르면 효과가 입증됐다.", "expected_judgment": "reject", "rationale": "출처와 결론 발명", "measured": false}
+{"id": "K023", "category": "boundary", "mode": "copyedit", "original": "그가 왔고 나는 갔다.", "candidate": "그가 왔다. 나는 갔다.", "expected_judgment": "reject", "rationale": "copyedit 문장 경계 권한 위반", "measured": false}
+{"id": "K024", "category": "unit", "mode": "copyedit", "original": "무게는 3kg이다.", "candidate": "무게는 3mg이다.", "expected_judgment": "reject", "rationale": "단위 변경", "measured": false}
+{"id": "K025", "category": "code", "mode": "copyedit", "original": "`x += 1`을 실행한다.", "candidate": "`x = 1`을 실행한다.", "expected_judgment": "reject", "rationale": "코드 변경", "measured": false}
+{"id": "K026", "category": "no-typo-noise", "mode": "copyedit", "original": "그는 천천히 걸었다.", "candidate": "그는 처넌히 걸엇다.", "expected_judgment": "reject", "rationale": "사람처럼 보이기 위한 오류 추가", "measured": false}
+{"id": "K027", "category": "voice", "mode": "copyedit", "original": "괜찮아. 천천히 해.", "candidate": "문제없습니다. 천천히 진행해 주시기 바랍니다.", "expected_judgment": "reject", "rationale": "요청 없는 말투 평준화", "measured": false}
+{"id": "K028", "category": "retained-repetition", "mode": "copyedit", "original": "응답을 기다린다. 응답이 오면 처리한다.", "candidate": "응답을 기다린다. 응답이 오면 처리한다.", "expected_judgment": "keep", "rationale": "개념의 연결을 위한 유효한 반복", "measured": false}
+{"id": "K029", "category": "multilingual-term", "mode": "copyedit", "original": "WebGPU를 사용한다.", "candidate": "WebGL을 사용한다.", "expected_judgment": "reject", "rationale": "기술 이름 변경", "measured": false}
+{"id": "K030", "category": "range", "mode": "copyedit", "original": "최소 3명이 필요하다.", "candidate": "3명이 필요하다.", "expected_judgment": "reject", "rationale": "하한을 정확한 개수로 바꿈", "measured": false}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "original_sha256": "9ac080d4c732241813f1bfc8b9e83aacceed3a88b5e77e55b095801894b0593e",
+  "candidate_sha256": "246a07571ffb9f4060a00f78a03a8f585cbaf95cd2ba10b41b1b2e92ff8faf04",
+  "deterministic_pass": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "method": "difflib.SequenceMatcher, Unicode code points, autojunk=True, whitespace included; NOT Levenshtein",
+    "change_ratio": 0.07999999999999996,
+    "before_chars": 27,
+    "after_chars": 23,
+    "after_chars_without_whitespace": 19,
+    "after_utf8_bytes": 53,
+    "inserted": 0,
+    "deleted": 4,
+    "replaced_before": 0,
+    "replaced_after": 0
+  },
+  "semantic_verification": "simulated",
+  "external_fact_check": "not_performed_by_runtime",
+  "version": "1.0.0",
+  "outcome": "no_actionable_issues",
+  "finished": true,
+  "round": 2,
+  "accepted_rounds": 1,
+  "submitted_responses": 4,
+  "provider": "demo-simulation",
+  "response_sources": [
+    "demo-simulation",
+    "demo-simulation",
+    "demo-simulation",
+    "demo-simulation"
+  ],
+  "coverage": "IDs attested by reviewer; reading and comprehension cannot be proven by this program",
+  "unresolved_issues": [],
+  "notes": [],
+  "initial_draft_validated_against_sources": null
+}

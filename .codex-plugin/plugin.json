@@ -1,0 +1,11 @@
+{
+  "name": "munjang",
+  "version": "1.0.0",
+  "description": "Korean writing and evidence-preserving self-editing with a bounded, auditable revision loop.",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Munjang Workbench",
+    "shortDescription": "한국어 글쓰기와 검증형 자기 교열"
+  }
+}
